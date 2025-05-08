@@ -1,0 +1,9 @@
+metric_name,unit
+Heart Rate,bpm
+Calories Burned,kcal
+Steps Taken,steps
+Distance Covered,miles
+Active Minutes,minutes
+Sleep Duration,hours
+Stress Level,index
+Workout Duration,minutes
